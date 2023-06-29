@@ -73,4 +73,4 @@ The interactive dashboard provides a visually appealing representation of the da
 To interact with the dashboard, open the Power BI application and navigate to the 'power-bi-dashboard' folder. Open the interactive dashboard file, and explore the various visualizations to gain insights into the data.
 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is made by Meba Tesfaye
